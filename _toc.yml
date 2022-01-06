@@ -4,6 +4,13 @@
 format: jb-book
 root: index
 chapters:
+- file: roster
 - file: ticha
 - file: crim
 - file: bridge
+- file: qmh
+- file: voices 
+- file: islam
+- file: books
+- file: gam 
+- file: lenape
